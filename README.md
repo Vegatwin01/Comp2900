@@ -1,2 +1,2 @@
 # Comp2900
-Estructura de Datos
+Curso de Heading level 1 __Estructura de Datos__
